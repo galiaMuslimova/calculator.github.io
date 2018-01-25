@@ -1,0 +1,9 @@
+button {
+    font-size: 200%;
+    width: 40px;
+}
+input {
+    font-size: 14px;
+    height: 60px;
+    text-align: right;
+}
