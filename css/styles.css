@@ -9,8 +9,8 @@ body {
 	background: none;
 	}
 button {
-		width: 64px;
-		height: 64px;
+	width: 64px;
+	height: 64px;
         background: lightgoldenrodyellow;
         font-family: "Arial";
         cursor: pointer;
@@ -26,7 +26,7 @@ input {
 }
 .calculator {
     margin: 20px;
-	width: 275px;
+    width: 275px;
     border-radius: 10px;
     background-color: green;
     padding: 20px;
